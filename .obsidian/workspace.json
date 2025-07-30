@@ -1,0 +1,413 @@
+{
+  "main": {
+    "id": "14cce250dea5a445",
+    "type": "split",
+    "children": [
+      {
+        "id": "4208001a644df475",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c3c0c3e1ab043c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CS-004 Beneficial machines.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CS-004 Beneficial machines"
+            }
+          },
+          {
+            "id": "77cadcc7b73eb2e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CS-000 Table Of Content.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CS-000 Table Of Content"
+            }
+          },
+          {
+            "id": "68632dfa8c068bf1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a6e6f9e17fcffcf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CS-016 Monotonicity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CS-016 Monotonicity"
+            }
+          },
+          {
+            "id": "d01206fa2a4225b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CS-000 Table Of Content.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CS-000 Table Of Content"
+            }
+          },
+          {
+            "id": "0b20a8a6b72c7187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book/B-002 The Logical Structure of The WorldThe Logical Structure of The World.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B-002 The Logical Structure of The WorldThe Logical Structure of The World"
+            }
+          },
+          {
+            "id": "32ad6b0225f67339",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CS-011 Human Intelligence.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CS-011 Human Intelligence"
+            }
+          },
+          {
+            "id": "810fd67ccf08c72e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archieve/JOB-001 Supermama.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JOB-001 Supermama"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e320a0457fd862b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "db8406d8ff686226",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6231497706d33d0a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bbee2946907205d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "baac8160b980430a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5
+  },
+  "right": {
+    "id": "ea0595b9dc0f5e57",
+    "type": "split",
+    "children": [
+      {
+        "id": "7017e68db1416d96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9787a16758490bf1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Knowledge Unit/Visible Analyst (VA).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Visible Analyst (VA)"
+            }
+          },
+          {
+            "id": "e2ab2e3e783b5ed5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Knowledge Unit/Visible Analyst (VA).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Visible Analyst (VA)"
+            }
+          },
+          {
+            "id": "d6cf7e6c16a691ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "9f9fdba343e50ec1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Knowledge Unit/Visible Analyst (VA).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Visible Analyst (VA)"
+            }
+          },
+          {
+            "id": "c4ad915be1b66f06",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "c67e2022d88f99af",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "4d1a776b7fbe426c",
+            "type": "leaf",
+            "state": {
+              "type": "transcript-view",
+              "state": {},
+              "icon": "scroll",
+              "title": "YouTube Transcript"
+            }
+          },
+          {
+            "id": "084a28fac60f67f2",
+            "type": "leaf",
+            "state": {
+              "type": "transcript-view",
+              "state": {},
+              "icon": "scroll",
+              "title": "YouTube Transcript"
+            }
+          },
+          {
+            "id": "93a155618f363bb5",
+            "type": "leaf",
+            "state": {
+              "type": "transcript-view",
+              "state": {},
+              "icon": "scroll",
+              "title": "YouTube Transcript"
+            }
+          },
+          {
+            "id": "f89adf977451e702",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "quickadd:QuickAdd": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "vscode-editor:Create Code File": false,
+      "edge-tts:Read note aloud": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "77cadcc7b73eb2e8",
+  "lastOpenFiles": [
+    "CS/CS-001 Artificial Intelligence (AI).md",
+    "CS/CS-000 Table Of Content.md",
+    "CS/CS-020 Search Contours.md",
+    "CS/CS-019 Visible Analyst (VA).md",
+    "CS/CS-018 Computer Aided Software Engineering (CASE).md",
+    "CS/CS-017 Python.md",
+    "CS/CS-016 Monotonicity.md",
+    "CS/CS-015 Engineering Design.md",
+    "CS/CS-014 Software Development Life Cycle (SDLC).md",
+    "CS/CS-013 System Analysts.md",
+    "CS/CS-012 System Analysis and Design (SAD).md",
+    "CS/CS-011 Human Intelligence.md",
+    "CS/CS-010 Natural Language Processing (NLP).md",
+    "CS/CS-009 General Problem Solver (GPS).md",
+    "CS/CS-008 Rational Agent (RA).md",
+    "CS/CS-007 Cognitive.md",
+    "CS/CS-006 Logic.md",
+    "CS/CS-005 Turing Test.md",
+    "CS/CS-004 Beneficial machines.md",
+    "CS/CS-003 Machine Learning (ML).md",
+    "CS/CS-002 Value Alignment Problem.md",
+    "CS/CS-022 Agile.md",
+    "Coding/Load First Data Set.py",
+    "CS/CS-021 Engineering Problem Solving.md",
+    "ALGO/CS-018 Heuristic Search Strategies.md",
+    "ALGO/CS-017 A Star Search.md",
+    "ALGO",
+    "Book/B-002 The Logical Structure of The WorldThe Logical Structure of The World.md",
+    "Archieve/attachments/Pasted image 20250729200500.png",
+    "Archieve/attachments",
+    "Character/attachments/Pasted image 20250727222850.png",
+    "Character/attachments",
+    "PHIL",
+    "Untitled 1",
+    "Setting/Add New CS Note.js",
+    "Picture Folder/Pasted image 20250515214638.jpg",
+    "CS",
+    "Setting/Untitled",
+    "Setting",
+    "Lessons/Tools/attachments/Pasted image 20250722214553.png",
+    "Lessons/Tools/attachments/Pasted image 20250722214344.png",
+    "Lessons/Tools/attachments/Pasted image 20250722212240.png",
+    "Lessons/Software Design/attachments/Pasted image 20250707215858.png",
+    "Lessons/Software Design/attachments/Pasted image 20250707230547.png",
+    "Knowledge Unit/attachments/Pasted image 20250721125111.png",
+    "Knowledge Unit/attachments/Pasted image 20250720232142.png"
+  ]
+}

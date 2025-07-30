@@ -1,0 +1,2 @@
+>[!note] Definition
+>[[CH-009 Rudolf Carnap (1891 - 1970)]] and [[Carl Hempel (1905 - 1997)]] attempted to analyze the **acquisition of knowledge from experience by quantifying the degree of belief** that **should be assigned to logical sentences based on their connection to observations that confirm or disconfirm them**.

@@ -1,0 +1,24 @@
+[[Phillippe Kruchten]] published an influential paper that proposed modelling software architectures using different perspectives.
+
+Each perspective provides avenues for addressing problems from different angles and when combined the set of models created from each perspective helps form the software architectures.
+
+![[Pasted image 20250707204309.png]]
+
+| 4 + 1 View Model | Definition                                                                                                                                                 | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| User View        | The behaviour that **system exhibits to its users**                                                                                                        | Depicts how **users interact with the system and how the specific sequences of inputs and outputs** occur during software operation.<br><br>![[UML Use Case Diagram]]<br><br>The user view also provides an effective source of information for **verifying and validating system functions**, after the system is built.                                                                                                                                                          |
+| Process View     | The **dynamic or behavioural aspects of the software system** where the main units of analysis are processes and thread                                    | Software systems are decomposed into processes and threads to address design issues that deal with **the dynamic flow of control between architectural element**^[Concurrency, distribution, system integrity, fault tolerance].<br><br>![[UML Sequence Diagram]]<br><br>![[UML Communication Diagram]]<br><br>Sequence and communication diagrams together with the active object notation can be used to evaluate, analyze and characterize the system capabilities perspective. |
+| Physical View    | Deployment aspects of software system where **the main elements of analysis are nodes, connections between nodes and maps** of software artifacts to node. | Focus on **modelling of elements that directly affect quality requirements**^[Availability, performance and scalability]<br><br>![[UML Deployment Diagram]]                                                                                                                                                                                                                                                                                                                        |
+| Development View | Software development configuration aspects of the software system, where the main units of decomposition are actual physical files and directories         | Use to **analyze the system from the perspective of how logical components map** to physical files and directories.<br><br>These analyses can be employed to address concerns that **deal with ease of development**, reusability, constraints **imposed by tool sets**, allocation of work to teams, **cost evaluation and planning**, **monitoring the project's progress, portability and security**.                                                                           |
+| Logical view     | To decompose systems into logical components that **represent the structural integrity** that **supports functional and non-functional requirements**      | The static structure of the system can be model using **high-level diagrams to decompose**, abstract and **encapsulate the services that the system needs to provide its users.**<br><br>![[UML Class Diagram]]                                                                                                                                                                                                                                                                    |
+
+
+
+
+
+
+
+
+
+
+
