@@ -1,5 +1,5 @@
 # Key Concept
-A star search , a best-first search that uses the evaluation function
+A \* search, a best-first search that uses the evaluation function
 A星搜索，一种使用评价函数的最佳优先搜索
 $$f(n) = g(n) + h(n)$$
 
@@ -12,12 +12,12 @@ $f(n)$ = 从 $n$ 到目标的最佳路径的估计成本。
 # Admissible Heuristic 可接受的启发式
 
 >[!note] Calculation
->Stages in a greedy best-first tree-like search for Bucharest with the straight-line distance heuristic $h_{SLD}$. Nodes are labeled with their $h$-values.
+>Stages in a greedy best-first tree-like search for Bucharest with the straight-line distance heuristic $h_{SLD}$. Nodes are labelled with their $h$-values.
 >使用直线距离启发式 $h_{SLD}$ 对布加勒斯特进行的贪婪最佳优先树状搜索的各个阶段。节点以其 $h$ 值标注。
 >
 >![[Pasted image 20250719234919.png]]
 >
->We show the progress of an A star search with the goal of reaching Bucharest.
+>We show the progress of an A\* search with the goal of reaching Bucharest.
 >我们展示了以到达布加勒斯特为目标的 A 星搜索进展情况。
 >
 >![[Pasted image 20250719235156.png]]
@@ -37,7 +37,7 @@ $f(n)$ = 从 $n$ 到目标的最佳路径的估计成本。
 >   
 ><br> 
 >
->2. A star search is complete.^[Again, assuming all action costs are $> $ > 0$ 同样，假设所有行动的成本都是 $> $ > 0$]  Whether A star is cost-optimal depends on certain properties of the heuristic.
+>2. A\* search is complete.^[Again, assuming all action costs are $> $ > 0$ 同样，假设所有行动的成本都是 $> $ > 0$]  Whether A\* is cost-optimal depends on certain properties of the heuristic.
 >   A星搜索完成A。 A星是否成本最优，取决于启发式的某些特性。
 >   
 > 	  A key property is admissibility: An admissible heuristic is one overestimates the cost to reach a goal.^[An admissible heuristic is therefore optimistic. 因此，可接受的启发式是乐观的。]
@@ -45,7 +45,7 @@ $f(n)$ = 从 $n$ 到目标的最佳路径的估计成本。
 >
 ><br>
 >
->3. An admissible heuristic, A star is cost-optimal, which can show with a proof by contradiction. Suppose the optimal path has cost $C^*$ , but the algorithm returns a path with cost $C>C^*$. Then there must be some node $n$ which is on the optimal path and is unexpanded^[Because if all the nodes on the optimal path had been expanded, then would have returned that optimal solution. 因为如果最优路径上的所有节点都扩展了，那么就会返回最优解。]. So then, using the notation $g^*(n)$ to mean the cost of the optimal path from the start to $n$ and $h^*(n)$ to mean the cost of the optimal path from $n$ to the neatest goal,
+>3. An admissible heuristic, A\* is cost-optimal, which can show with a proof by contradiction. Suppose the optimal path has cost $C^*$ , but the algorithm returns a path with cost $C>C^*$. Then there must be some node $n$ which is on the optimal path and is unexpanded^[Because if all the nodes on the optimal path had been expanded, then would have returned that optimal solution. 因为如果最优路径上的所有节点都扩展了，那么就会返回最优解。]. So then, using the notation $g^*(n)$ to mean the cost of the optimal path from the start to $n$ and $h^*(n)$ to mean the cost of the optimal path from $n$ to the neatest goal,
 >    一个可接受的启发式 A 星是成本最优的，这可以用矛盾证明来证明。假设最优路径的成本为 $C^*$ ，但算法返回的路径成本为 $C>C^*$。那么一定有某个节点 $n$ 在最优路径上，并且是未扩展的。所以，用符号 $g^*(n)$ 表示从起点到 $n$ 的最优路径的成本，用符号 $h^*(n)$ 表示从 $n$ 到最整齐目标的最优路径的成本、
 >   
 > 	  $f(n) > C^*$ (Otherwise $n$ would have been expanded 否则，$n$ 将被展开)
@@ -56,7 +56,7 @@ $f(n)$ = 从 $n$ 到目标的最佳路径的估计成本。
 > 
 > <br>
 > 
-> 4. The first and last line form a contradiction, so the supposition that the algorithm could return a suboptimal path must be wrong - it must be that A star return only cost-optimal paths.
+> 4. The first and last line form a contradiction, so the supposition that the algorithm could return a suboptimal path must be wrong - it must be that A\* return only cost-optimal paths.
 >    第一行和最后一行自相矛盾，因此算法可能返回次优路径的假设一定是错误的--A星 一定只返回成本最优的路径。
 > <br>
 > 
@@ -72,7 +72,7 @@ $f(n)$ = 从 $n$ 到目标的最佳路径的估计成本。
 >    >Consistent heuristic is the straight-line distance $h_{SLD}$ that we used in getting to Bucharest.
 >    >一致的启发式是我们到达布加勒斯特时使用的直线距离 $h_{SLD}$。
 >    
->6. Every consistent heuristic is admissible^[but no vice cersa 但不相反], so with a consistent heuristic , A star is cost optimal.
+>6. Every consistent heuristic is admissible^[but no vice cersa 但不相反], so with a consistent heuristic , A\* is cost optimal.
 >   每一个一致的启发式都是可接受的，因此在一致的启发式下，A星是成本最优的。
 ><br>
 >
@@ -83,14 +83,14 @@ $f(n)$ = 从 $n$ 到目标的最佳路径的估计成本。
 认为最坏的影响在实践中很少发生，人们不应该害怕不一致的启发式。
 
 # Inadmissible heuristic 不可接受的启发式
-A star may or may not be cost optimal.
+A\* may or may not be cost optimal.
 一颗星可能是成本最优的，也可能不是。
 
 2 cases where it is:
 1. If there is even one cost-optimal path on which $h(n)$ is admissible for all nodes $n$ on the path, then that path will be found, not matter what the heuristic says for states off the path.
    如果存在一条成本最优的路径，且该路径上的所有节点 $n$ 都允许使用 $h(n)$，那么无论启发式对路径外的状态如何判断，都会找到这条路径。
 <br>
-2. If the optimal solution has cost $C^*$, and the second-best has cost $C_{2}$ and if $h(n)$ overestimates some costs, but never by more than $C_2 - C^*$, then A star is guarantee to return cost-optimal solutions.
+2. If the optimal solution has cost $C^*$, and the second-best has cost $C_{2}$ and if $h(n)$ overestimates some costs, but never by more than $C_2 - C^*$, then A\* is guarantee to return cost-optimal solutions.
    如果最优解的成本为$C^*$，次优解的成本为$C_{2}$，并且如果$h(n)$高估了某些成本，但绝不会超过$C_2 - C^*$，那么A星就能保证返回成本最优的解。
    
 Map of Romania showing contours at $f = 380$, $f = 400$ and $f = 420$ with Arad as the start state. Nodes inside a given contour have $f = g + h$ costs less than or equal to the contour value.

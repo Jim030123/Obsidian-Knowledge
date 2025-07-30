@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CS-004 Beneficial machines.md",
+                "file": "ALGO/CS-017 A Star Search.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CS-004 Beneficial machines"
-            }
-          },
-          {
-            "id": "77cadcc7b73eb2e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CS-000 Table Of Content.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CS-000 Table Of Content"
+              "title": "CS-017 A Star Search"
             }
           },
           {
@@ -145,8 +121,7 @@
               "title": "JOB-001 Supermama"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -325,7 +300,14 @@
               "icon": "scroll",
               "title": "YouTube Transcript"
             }
-          },
+          }
+        ],
+        "currentTab": 8
+      },
+      {
+        "id": "36f773f1c15ee36f",
+        "type": "tabs",
+        "children": [
           {
             "id": "f89adf977451e702",
             "type": "leaf",
@@ -336,8 +318,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "horizontal",
@@ -361,10 +342,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77cadcc7b73eb2e8",
+  "active": "3c3c0c3e1ab043c3",
   "lastOpenFiles": [
-    "CS/CS-001 Artificial Intelligence (AI).md",
+    "CS/CS-004 Beneficial machines.md",
+    "README.md",
     "CS/CS-000 Table Of Content.md",
+    "CS/CS-001 Artificial Intelligence (AI).md",
     "CS/CS-020 Search Contours.md",
     "CS/CS-019 Visible Analyst (VA).md",
     "CS/CS-018 Computer Aided Software Engineering (CASE).md",
@@ -381,7 +364,6 @@
     "CS/CS-007 Cognitive.md",
     "CS/CS-006 Logic.md",
     "CS/CS-005 Turing Test.md",
-    "CS/CS-004 Beneficial machines.md",
     "CS/CS-003 Machine Learning (ML).md",
     "CS/CS-002 Value Alignment Problem.md",
     "CS/CS-022 Agile.md",
@@ -390,7 +372,6 @@
     "ALGO/CS-018 Heuristic Search Strategies.md",
     "ALGO/CS-017 A Star Search.md",
     "ALGO",
-    "Book/B-002 The Logical Structure of The WorldThe Logical Structure of The World.md",
     "Archieve/attachments/Pasted image 20250729200500.png",
     "Archieve/attachments",
     "Character/attachments/Pasted image 20250727222850.png",
