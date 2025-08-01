@@ -4,121 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4208001a644df475",
+        "id": "e791bf6d63973af8",
         "type": "tabs",
         "children": [
           {
-            "id": "3c3c0c3e1ab043c3",
+            "id": "2800e24023d6da13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ALGO/CS-017 A Star Search.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CS-017 A Star Search"
-            }
-          },
-          {
-            "id": "68632dfa8c068bf1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "a6e6f9e17fcffcf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CS-016 Monotonicity.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS-016 Monotonicity"
-            }
-          },
-          {
-            "id": "d01206fa2a4225b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CS-000 Table Of Content.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CS-000 Table Of Content"
-            }
-          },
-          {
-            "id": "0b20a8a6b72c7187",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book/B-002 The Logical Structure of The WorldThe Logical Structure of The World.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B-002 The Logical Structure of The WorldThe Logical Structure of The World"
-            }
-          },
-          {
-            "id": "32ad6b0225f67339",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CS-011 Human Intelligence.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CS-011 Human Intelligence"
-            }
-          },
-          {
-            "id": "810fd67ccf08c72e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archieve/JOB-001 Supermama.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JOB-001 Supermama"
+              "title": "README"
             }
           }
         ]
@@ -153,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#obsidian_sample",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -185,16 +85,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7017e68db1416d96",
+        "id": "d8e2dc4888ca4d7b",
         "type": "tabs",
         "children": [
           {
-            "id": "9787a16758490bf1",
+            "id": "6ca1ad4be9205e9c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge Unit/Visible Analyst (VA).md",
+                "file": "Archieve/attachments/Pasted image 20250729200500.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Visible Analyst (VA)"
+              "title": "Backlinks for Pasted image 20250729200500"
             }
           },
           {
-            "id": "e2ab2e3e783b5ed5",
+            "id": "48cc9c254e783c49",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge Unit/Visible Analyst (VA).md",
+                "file": "Archieve/attachments/Pasted image 20250729200500.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Visible Analyst (VA)"
+              "title": "Outgoing links from Pasted image 20250729200500"
             }
           },
           {
-            "id": "d6cf7e6c16a691ff",
+            "id": "9b4222519e677c67",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -233,26 +133,26 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "标签"
+              "title": "Tags"
             }
           },
           {
-            "id": "9f9fdba343e50ec1",
+            "id": "bb846b245fc74b39",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Unit/Visible Analyst (VA).md",
+                "file": "Archieve/attachments/Pasted image 20250729200500.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Visible Analyst (VA)"
+              "title": "Outline of Pasted image 20250729200500"
             }
           },
           {
-            "id": "c4ad915be1b66f06",
+            "id": "52c109c0a803426c",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -262,54 +162,7 @@
             }
           },
           {
-            "id": "c67e2022d88f99af",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "4d1a776b7fbe426c",
-            "type": "leaf",
-            "state": {
-              "type": "transcript-view",
-              "state": {},
-              "icon": "scroll",
-              "title": "YouTube Transcript"
-            }
-          },
-          {
-            "id": "084a28fac60f67f2",
-            "type": "leaf",
-            "state": {
-              "type": "transcript-view",
-              "state": {},
-              "icon": "scroll",
-              "title": "YouTube Transcript"
-            }
-          },
-          {
-            "id": "93a155618f363bb5",
-            "type": "leaf",
-            "state": {
-              "type": "transcript-view",
-              "state": {},
-              "icon": "scroll",
-              "title": "YouTube Transcript"
-            }
-          }
-        ],
-        "currentTab": 8
-      },
-      {
-        "id": "36f773f1c15ee36f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f89adf977451e702",
+            "id": "f4138f60df124f0b",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -318,7 +171,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -342,44 +196,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c3c0c3e1ab043c3",
+  "active": "2800e24023d6da13",
   "lastOpenFiles": [
-    "CS/CS-004 Beneficial machines.md",
+    "CS/CS-007 Cognitive.md",
     "README.md",
+    "Archieve/JOB-001 Supermama.md",
+    "CS/CS-011 Human Intelligence.md",
+    "Book/B-002 The Logical Structure of The WorldThe Logical Structure of The World.md",
     "CS/CS-000 Table Of Content.md",
+    "CS/CS-016 Monotonicity.md",
+    "Archieve/attachments/Pasted image 20250729200500.png",
+    "Archieve/attachments/Pasted image 20250515214638.jpg",
+    "ALGO/CS-017 A Star Search.md",
+    "CS/CS-004 Beneficial machines.md",
     "CS/CS-001 Artificial Intelligence (AI).md",
     "CS/CS-020 Search Contours.md",
     "CS/CS-019 Visible Analyst (VA).md",
     "CS/CS-018 Computer Aided Software Engineering (CASE).md",
     "CS/CS-017 Python.md",
-    "CS/CS-016 Monotonicity.md",
     "CS/CS-015 Engineering Design.md",
     "CS/CS-014 Software Development Life Cycle (SDLC).md",
     "CS/CS-013 System Analysts.md",
     "CS/CS-012 System Analysis and Design (SAD).md",
-    "CS/CS-011 Human Intelligence.md",
     "CS/CS-010 Natural Language Processing (NLP).md",
     "CS/CS-009 General Problem Solver (GPS).md",
     "CS/CS-008 Rational Agent (RA).md",
-    "CS/CS-007 Cognitive.md",
     "CS/CS-006 Logic.md",
     "CS/CS-005 Turing Test.md",
     "CS/CS-003 Machine Learning (ML).md",
     "CS/CS-002 Value Alignment Problem.md",
     "CS/CS-022 Agile.md",
     "Coding/Load First Data Set.py",
-    "CS/CS-021 Engineering Problem Solving.md",
-    "ALGO/CS-018 Heuristic Search Strategies.md",
-    "ALGO/CS-017 A Star Search.md",
     "ALGO",
-    "Archieve/attachments/Pasted image 20250729200500.png",
     "Archieve/attachments",
     "Character/attachments/Pasted image 20250727222850.png",
     "Character/attachments",
     "PHIL",
     "Untitled 1",
     "Setting/Add New CS Note.js",
-    "Picture Folder/Pasted image 20250515214638.jpg",
     "CS",
     "Setting/Untitled",
     "Setting",
